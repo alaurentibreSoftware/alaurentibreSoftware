@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alessandro Laurenti
-- 👀 I’m interested in ...
+- 👀 I’m interested in computer tech
 - 🌱 I’m currently learning Mobile Programming
 - 💞️ I’m looking to collaborate on Mobile structure
 
